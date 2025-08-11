@@ -4,10 +4,6 @@
   <h1>Pablo Marques</h1>
 </div>
 
-<div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=18181b&height=2&section=header"/>
-</div>
-
 ## 🦇 Sobre mim
 
 <div style="background:#23272f; color:#b3b3b3; padding:16px; border-radius:8px;">
