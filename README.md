@@ -1,16 +1,14 @@
 <div align="center" style="background:#18181b; padding: 30px 0; border-radius: 12px;">
 	  
-  <h1>Pablo Marques</h1>
-</div>
 
-## 🦇 Sobre mim
+## Sobre mim
 
 <div style="background:#23272f; color:#b3b3b3; padding:16px; border-radius:8px;">
 Meu nome é Pablo Marques, tenho 24 anos e atualmente moro em Contagem, MG. Sou Técnico em Informática formado pelo IFRO (Instituto Federal de Rondônia) e hoje curso Análise e Desenvolvimento de Sistemas (4º período) na PUC Minas.
 
 </div>
 
-## 💻 Tecnologias
+## Tecnologias
 
 <div style="background:#18181b; color:#b3b3b3; padding:16px; border-radius:8px;">
 	<img src="https://img.shields.io/badge/C%23-18181b?style=for-the-badge&logo=c-sharp&logoColor=239120"/>
@@ -23,7 +21,7 @@ Meu nome é Pablo Marques, tenho 24 anos e atualmente moro em Contagem, MG. Sou 
 	<img src="https://img.shields.io/badge/Lua-18181b?style=for-the-badge&logo=lua&logoColor=2C2D72"/>
 </div>
 
-## 🌘 Projetos em destaque
+## Projetos em destaque
 
 - [ArtistFinder](https://github.com/pablomarquesc/ArtistFinder) — Plataforma para conectar artistas freelancers a clientes, facilitando a busca e contratação de talentos artísticos. Meu primeiro trabalho interdisciplinar, totalmente front-end, desenvolvido na PUC Minas.
 
