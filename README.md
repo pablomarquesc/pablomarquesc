@@ -1,7 +1,7 @@
 <div align="center" style="background:#18181b; padding: 30px 0; border-radius: 12px;">
 	  
 
-## Bem vindo ao meu perfil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>
+## Bem vindo ao meu perfil <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20" />
 
 <div style="background:#23272f; color:#b3b3b3; padding:16px; border-radius:8px;">
 Meu nome é Pablo Marques, tenho 24 anos e atualmente moro em Contagem, MG. Sou Técnico em Informática formado pelo IFRO (Instituto Federal de Rondônia) e hoje curso Análise e Desenvolvimento de Sistemas (4º período) na PUC Minas.
