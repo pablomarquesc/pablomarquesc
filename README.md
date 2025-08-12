@@ -1,6 +1,5 @@
 <div align="center" style="background:#18181b; padding: 30px 0; border-radius: 12px;">
-	<img src="https://img.icons8.com/ios-filled/100/ffffff/moon-symbol.png" width="80" alt="Moon"/>
-  
+	  
   <h1>Pablo Marques</h1>
 </div>
 
