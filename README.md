@@ -8,7 +8,7 @@ Meu nome é Pablo Marques, tenho 24 anos e atualmente moro em Contagem, MG. Sou 
 
 </div>
 
-## Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
 <div style="background:#18181b; color:#b3b3b3; padding:16px; border-radius:8px;">
 	<img src="https://img.shields.io/badge/C%23-18181b?style=for-the-badge&logo=c-sharp&logoColor=239120"/>
@@ -34,12 +34,6 @@ Meu nome é Pablo Marques, tenho 24 anos e atualmente moro em Contagem, MG. Sou 
 <div style="background:#23272f; color:#b3b3b3; padding:16px; border-radius:8px; display:flex; flex-direction:column; align-items:flex-start; gap:8px;">
 	<a href="https://www.linkedin.com/in/pablomarques04/" style="color:#fff; text-decoration:none;">
 		<img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" width="20" style="vertical-align:middle;"/> LinkedIn
-	</a>
-	<a href="https://www.instagram.com/pablomarquesc/" style="color:#fff; text-decoration:none;">
-		<img src="https://img.icons8.com/ios-filled/24/ffffff/instagram-new.png" width="20" style="vertical-align:middle;"/> Instagram
-	</a>
-	<a href="https://discord.com/users/231880499260293121" style="color:#fff; text-decoration:none;">
-		<img src="https://img.icons8.com/ios-filled/24/ffffff/discord-logo.png" width="20" style="vertical-align:middle;"/> Discord
 	</a>
 </div>
 
