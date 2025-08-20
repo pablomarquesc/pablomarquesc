@@ -45,7 +45,7 @@ Meu nome é Pablo Marques, tenho 24 anos e atualmente moro em Contagem, MG. Sou 
 
 <div  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; ">
 	<img src="https://github-readme-stats.vercel.app/api?username=pablomarquesc&show_icons=true&theme=dark&bg_color=18181b&title_color=fff&icon_color=0A66C2&border_radius=10" alt="Pablo Marques GitHub Stats" height="180"/>
-	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomarquesc&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" /> -->
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablomarquesc&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" /> 
 </div>
 
 ## 📫 Contato
